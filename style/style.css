@@ -2678,7 +2678,7 @@ nav .hamburger div {
     top: calc(50vh - 400px);
     box-shadow: rgba(0, 0, 0, 0.1) 4px 4px;
     animation: animate-frame 2s ease-in-out;
-    transform: scale(0.9)
+    transform: scale(0.8)
 }
 
 #section-19 .square .position {
